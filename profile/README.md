@@ -24,13 +24,13 @@
 
 ---
 
-## Architecture Overview
+## Core Architecture
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/ecosystem.dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/ecosystem.light.svg" />
-    <img src="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/ecosystem.light.svg" alt="DioxusPress Organization Architecture: Core Stack (dioxuspress built on dioxus-ui) and Standalone Pure-Rust Case Studies" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/architecture.dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/architecture.light.svg" />
+    <img src="https://raw.githubusercontent.com/dioxuspress/.github/main/profile/architecture.light.svg" alt="DioxusPress and dioxus-ui Core Architecture" width="100%" />
   </picture>
 </p>
 
