@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: DioxusPress Documentation
+    url: https://dioxuspress.dev
+    about: Official documentation and guides for DioxusPress
+  - name: dioxus-shadcn Component Showcase
+    url: https://ui.dioxuspress.dev
+    about: Live interactive showcase for all 100 Dioxus 0.7 components
+  - name: Rust in Everything
+    url: https://rustineverything.app
+    about: Architecture deep dives and interactive pure-Rust case studies
